@@ -1,0 +1,7 @@
+In AWS 
+key stores are two types 1. public and 2.private key stores
+firewall is nothing but security group in aws.
+in security group we need to all the traffice 
+ 1. inbound traffic = incomining traffic
+ in inbound traffic we allow all  and next we add ssh secured socket shell. and ssh port is 22 and then we add my laptop in aws console
+ 2. outbount traffic= outgoing traffic (eg after entering home ppl may go back in coming way)
